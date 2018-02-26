@@ -18,3 +18,8 @@ erl_crash.dump
 
 /_nerves-tmp
 .DS_Store
+
+# Potential firmware images names
+firmware
+firmware.raw
+fw.raw
