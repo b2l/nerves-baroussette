@@ -1,0 +1,2 @@
+defmodule Mnt do
+end
